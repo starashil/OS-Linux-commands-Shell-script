@@ -63,6 +63,7 @@ comm file1 file2
  
 diff file1 file2
 ## OUTPUT
+![{797C057E-45EA-4A90-8C67-810D2159DEEC}](https://github.com/user-attachments/assets/f0384839-5384-4b42-9e7e-217b3140f19a)
 
 
 #Filters
@@ -86,17 +87,19 @@ cat > file22
 
 cut -c1-3 file11
 ## OUTPUT
-
+![{9EC59696-784A-43ED-8F78-8E4087477741}](https://github.com/user-attachments/assets/1f20ebfb-ffa5-4179-89fd-16642517b17d)
 
 
 
 cut -d "|" -f 1 file22
 ## OUTPUT
+![{02F2CE8B-E81F-4696-A10C-4EF5E778F219}](https://github.com/user-attachments/assets/5df3d544-8e82-49f2-905f-d159bd6efe77)
 
 
 
 cut -d "|" -f 2 file22
 ## OUTPUT
+![{2CAA2F24-B640-4F15-B2FC-5178B52EC994}](https://github.com/user-attachments/assets/30b87c11-1de3-4624-8bac-07c5196b17ea)
 
 
 cat < newfile 
