@@ -42,19 +42,23 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
-
+![{BBDD3669-37E0-4C9C-836F-293086CA191E}](https://github.com/user-attachments/assets/48c55efc-8b5a-40bc-a9d6-c977130534af)
 
 
 cat < file2
 ## OUTPUT
+![{5825661C-11EE-40C7-AF48-4D9CDBA9FA15}](https://github.com/user-attachments/assets/819e29b3-2319-4b50-9a1c-90553ebf7934)
 
 
 # Comparing Files
 cmp file1 file2
 ## OUTPUT
+![{C659A801-6001-43D5-8E2F-3095039A8E1E}](https://github.com/user-attachments/assets/d4effdb2-84e0-4952-a179-a9ea7c1584e0)
+
  
 comm file1 file2
  ## OUTPUT
+![image](https://github.com/user-attachments/assets/970f6684-4e18-4fae-adf8-3fa48bafa36b)
 
  
 diff file1 file2
